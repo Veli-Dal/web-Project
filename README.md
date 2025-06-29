@@ -23,7 +23,7 @@ This project is a user-friendly digital restaurant menu that integrates QR code 
 
 ## 🌐 Live Demo
 
-[Click here to view the live site](https://veli-dal.github.io/web-Project/)
+[Click here to view the live site](https://Veli-Dal.github.io/web-Project/)
 
 
 ---
