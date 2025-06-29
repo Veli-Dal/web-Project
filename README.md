@@ -32,4 +32,4 @@ This project is a user-friendly digital restaurant menu that integrates QR code 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dalveli/web-yeni.git
+   git clone https://github.com/Veli-Dal/web-Project.git
