@@ -21,13 +21,12 @@ This project is a user-friendly digital restaurant menu that integrates QR code 
 - ASP.NET MVC
 - SQL Server
 
-## 🌐 Live Demo
+## 🔗 Live Demo
 
-👉 [Click here to view the live demo]()
+👉 [Click here to see the live app](https://Veli-Dal.github.io/web-Project/)
 
-## 📸 Screenshots
+---
 
-_Add screenshots here if available_
 
 ## 🛎️ Getting Started
 
